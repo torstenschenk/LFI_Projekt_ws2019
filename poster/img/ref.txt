@@ -1,0 +1,4 @@
+VGG19:
+https://www.researchgate.net/profile/Sergiu_Deitsch/publication/326290927/figure/fig26/AS:724736963256323@1549802165802/Architecture-of-the-modified-Vgg-19-network-used-for-prediction-of-defect-probability-in.png
+
+
